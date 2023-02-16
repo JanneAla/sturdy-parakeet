@@ -1,0 +1,9 @@
+Picture search
+
+Edit
+
+Settings -> appearance -> change accent color
+
+Find game autofocus search
+
+reset filters on startup

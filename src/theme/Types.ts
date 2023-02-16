@@ -1,0 +1,31 @@
+export interface MD3ThemeType {
+    id: number;
+    name: string;
+    isDark: boolean;
+    primary: string;
+    onPrimary: string;
+    primaryContainer: string;
+    onPrimaryContainer: string;
+    secondary: string;
+    onSecondary: string;
+    secondaryContainer: string;
+    onSecondaryContainer: string;
+    tertiary: string;
+    onTertiary: string;
+    tertiaryContainer: string;
+    onTertiaryContainer: string;
+    background: string;
+    onBackground: string;
+    surface: string;
+    onSurface: string;
+    surfaceVariant: string;
+    onSurfaceVariant: string;
+    outline: string;
+    inverseSurface: string;
+    inverseOnSurface: string;
+    primaryInverse: string;
+    elevationOverlay: string;
+    textColorPrimary: string;
+    textColorSecondary: string;
+    textColorHint: string;
+  }
